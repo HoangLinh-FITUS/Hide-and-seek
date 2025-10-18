@@ -17,6 +17,7 @@
   - **Menu/**: Các thành phần menu.
     - `MenuEntry.h`, `MenuLevel*.h`, `WinLose.h`: Điều khiển giao diện menu.
 - **include/**, **lib/**: Thư viện và header ngoài.
+- **x64/**, **Debug/**: Thư mục build và file thực thi.
 
 ## Hướng dẫn build & chạy
 
