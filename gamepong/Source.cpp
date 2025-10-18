@@ -30,6 +30,8 @@ int main() {
 		// ====================== CHECK and EXIT =============================
 		if (menu_game.checkExit() && menu_game.checkChoosedEnter()) {
 			window.close();
+			break;
 		}
+
 	}
 }
