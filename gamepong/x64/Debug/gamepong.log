@@ -1,0 +1,572 @@
+﻿  obstacle.h
+  Source.cpp
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel.h(23,44): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel.h(35,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel.h(46,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel.h(87,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel.h(91,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel.h(96,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(16,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(16,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(16,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(16,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(16,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(17,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(17,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(17,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(17,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(17,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(37,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(37,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(37,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(37,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(37,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(38,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(38,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(38,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(38,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\sightrange.h(38,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(26,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(26,10): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(26,10): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(26,10): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(26,10): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(27,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(27,10): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(27,10): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(27,10): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(27,10): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(39,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(39,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(39,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(39,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(39,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(40,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(40,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(40,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(40,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(40,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(60,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(60,15): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(60,15): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(60,15): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(60,15): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(61,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(61,15): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(61,15): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(61,15): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(61,15): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(82,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(82,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(82,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(82,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(82,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(83,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(83,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(83,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(83,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\minimax_algorithm.h(83,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,8): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,8): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,8): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,8): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,8): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,13): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,13): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,13): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,13): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(12,13): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,13): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,13): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,13): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,13): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,13): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,18): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,18): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,18): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,18): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(17,18): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,47): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,47): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,47): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,47): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,47): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,41): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,41): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,41): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,41): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(19,41): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,70): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,70): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,70): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,70): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,70): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,75): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,75): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,75): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,75): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(20,75): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,11): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,16): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,16): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,16): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,16): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,16): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,28): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,28): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,28): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,28): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,28): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,33): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,33): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,33): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,33): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(22,33): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,12): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,12): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,12): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,12): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,12): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,17): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,17): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,17): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,17): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,17): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(32,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(32,10): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(32,10): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(32,10): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(32,10): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(33,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(33,10): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(33,10): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(33,10): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(33,10): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(38,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,36): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,36): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,36): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,36): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,41): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,41): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,41): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(46,41): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244: '=': conversion from '_Ty1' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:             _Ty1=int
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:         ]
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:         and
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(47,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244: '=': conversion from '_Ty2' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:             _Ty2=int
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:         ]
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:         and
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(48,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(39,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,39): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,39): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,39): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,39): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,44): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,44): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,44): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,44): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(47,44): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244: '=': conversion from '_Ty1' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:             _Ty1=int
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:         ]
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:         and
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(48,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244: '=': conversion from '_Ty2' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:             _Ty2=int
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:         ]
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:         and
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(49,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(59,9): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(59,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(59,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(59,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(59,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(60,9): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(60,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(60,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(60,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(60,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(82,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(100,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(100,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(100,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(100,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(100,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(101,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(101,9): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(101,9): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(101,9): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\AstarSearch.h(101,9): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(152,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(199,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(199,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(209,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(209,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,52): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,52): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,52): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,52): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,43): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,43): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,43): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(221,43): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(226,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,49): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,49): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,49): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,49): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,40): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,40): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,40): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(238,40): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\level.h(252,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(29,102): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(30,114): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(41,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(42,59): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(43,62): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,13): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,13): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,13): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,13): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,13): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,18): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,18): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,18): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,18): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(70,18): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,72): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,72): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,72): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,72): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,72): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,56): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,56): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,56): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(77,56): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(79,32): warning C4553: '==': result of expression not used; did you intend '='?
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,15): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,15): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,15): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,15): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,15): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,20): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,20): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,20): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,20): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level1_2\include\level1_2.h(86,20): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\WinLose.h(15,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel1.h(18,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel2.h(17,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(43,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(97,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(97,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(97,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(97,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(97,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(98,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(98,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(98,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(98,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level3\include\level3.h(98,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel3.h(17,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(163,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(228,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(228,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(228,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(228,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(228,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(229,11): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(229,11): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(229,11): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(229,11): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(229,11): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\menulevel4.h(17,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Menu\MenuEntry.h(20,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(10,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(13,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(13,75): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(13,75): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(13,75): warning C4244:             _Rep=__int64
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(13,75): warning C4244:         ]
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,66): warning C4244: 'argument': conversion from 'const T' to 'unsigned int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,66): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,66): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,66): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,66): warning C4244:         ]
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,51): warning C4244: 'argument': conversion from 'const T' to 'unsigned int', possible loss of data
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,51): warning C4244:         with
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,51): warning C4244:         [
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,51): warning C4244:             T=float
+D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Source.cpp(19,51): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244: 'initializing': conversion from 'T' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             T=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16):
+      the template instantiation context (the oldest one first) is
+          D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,23):
+          see reference to function template instantiation 'std::pair<int,int>::pair<T&,T&,0>(_Other1,_Other2) noexcept' being compiled
+          with
+          [
+              T=float,
+              _Other1=float &,
+              _Other2=float &
+          ]
+              D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\bfs_algorithm.h(23,21):
+              see the first reference to 'std::pair<int,int>::pair' in 'bfs'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244: 'initializing': conversion from 'T' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             T=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16):
+      the template instantiation context (the oldest one first) is
+          D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(188,35):
+          see reference to function template instantiation 'std::pair<int,int>::pair<T,T,0>(_Other1 &&,_Other2 &&) noexcept' being compiled
+          with
+          [
+              T=float,
+              _Other1=float,
+              _Other2=float
+          ]
+              D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\gamepong\Level\Level4\include\level4.h(188,35):
+              see the first reference to 'std::pair<int,int>::pair' in 'Level4::seeker_find_hider'
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244: 'initializing': conversion from '_Ty' to '_Ty2', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+  (compiling source file 'Source.cpp')
+  
+  Generating Code...
+  gamepong.vcxproj -> D:\TaiLieu-HCMUS\gamepong\gamepong\gamepong\x64\Debug\gamepong.exe
