@@ -56,8 +56,6 @@ Người chơi (AI) có thể đảm nhận vai trò **Seeker (người đi tìm
   - Các bước di chuyển được mô phỏng hoặc hiển thị theo thời gian thực.
 
 
-## Cấu trúc thư mục
-
 ## ⚙️ Cấu trúc thư mục
 
 ```
