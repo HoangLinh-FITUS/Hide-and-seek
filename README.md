@@ -27,7 +27,7 @@
 
 ## Thuật toán sử dụng
 
-- **A\* Search**: Tìm đường đi tối ưu cho seeker/hider.
+- **A* Search**: Tìm đường đi tối ưu cho seeker/hider.
 - **BFS**: Tìm kiếm theo chiều rộng.
 - **Minimax**: Ra quyết định cho AI.
 
